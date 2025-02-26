@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link href="/tel:+1 (352) 225-7680" className="text-white fs-6 fw-bold">+1 (352) 225-7680</Link>
+                                                            <Link href="/tel:+1 (863) 216-8262" className="text-white fs-6 fw-bold">+1 (863) 216-8262</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link href="/mailto:sales@nbandwidth.com " className="text-white fs-6 fw-bold">sales@nbandwidth.com </Link>
+                                                            <Link href="/mailto:sales@gmsgconsulting.com " className="text-white fs-6 fw-bold">sales@gmsgconsulting.com </Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        110835 Treadway School Rd, Leesburg, FL 34788
+                                                        125320 Whippoorwill Ter, Chantilly, VA 20152-6685
                                                         </div>
                                                     </div>
                                                 </div>

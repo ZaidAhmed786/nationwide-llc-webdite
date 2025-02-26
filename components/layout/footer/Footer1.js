@@ -16,15 +16,15 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <h2 className="text-white">Nationwide Bandwidth LLC</h2>
+                                            <h2 className="text-white">Global Marketing Solutions</h2>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At Nationwide Bandwidth LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At Global Marketing Solutions, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         Nationwide Bandwidth LLC
+                                         Global Marketing Solutions
                                         </p>
                                      
                                     </div>
@@ -39,15 +39,15 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                10835 Treadway School Rd, Leesburg, FL 34788
+                                                25320 Whippoorwill Ter, Chantilly, VA 20152-6685
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+1 (352) 225-7680">+1 (352) 225-7680</Link>
+                                                <Link href="/tel:+1 (863) 216-8262">+1 (863) 216-8262</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="/mailto:sales@nbandwidth.com ">sales@nbandwidth.com </Link>
+                                                <Link href="/mailto:sales@gmsgconsulting.com ">sales@gmsgconsulting.com </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
@@ -133,7 +133,7 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Zolara  <Link href="/">Consulting LLC</Link>
+                                © All Copyright {new Date().getFullYear()}  |   Global   <Link href="/">Marketing Solutions LLC</Link>
                             </p>
                            
                         </div>

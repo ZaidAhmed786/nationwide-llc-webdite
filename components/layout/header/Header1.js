@@ -20,11 +20,11 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="/mailto:sales@nbandwidth.com" className="link">sales@nbandwidth.com </Link>
+                                    <Link href="/mailto:sales@gmsgconsulting.com" className="link">sales@gmsgconsulting.com </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="/tel:+1 (352) 225-7680">+1 (352) 225-7680</Link>
+                                    <Link href="/tel:+1 (863) 216-8262">+1 (863) 216-8262</Link>
                                 </li>
                             </ul>
                             <div className=" "><h5 className=" text-white px-3 py-2">Mon-Sat, 9am-7pm (EST)</h5></div>
@@ -40,7 +40,7 @@ export default function Header1({
                                 <div className="header-left">
                                     <div className="logo">
                                         <Link href="/" className="header-logo">
-                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Nationwide Bandwidth LLC</h3>
+                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Global Marketing Solutions</h3>
                                         </Link>
                                     </div>
                                 </div>
