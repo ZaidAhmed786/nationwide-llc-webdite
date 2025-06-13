@@ -24,7 +24,7 @@ export default function Header1({
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="/tel:+1 (703) 656-1700">+1 (703) 656-1700</Link>
+                                    <Link href="/tel:+1 (888) 528-7172">+1 (888) 528-7172</Link>
                                 </li>
                             </ul>
                             <div className=" "><h5 className=" text-white px-3 py-2">Mon-Sat, 9am-7pm (EST)</h5></div>
@@ -40,7 +40,8 @@ export default function Header1({
                                 <div className="header-left">
                                     <div className="logo">
                                         <Link href="/" className="header-logo">
-                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Global Marketing Solutions</h3>
+                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Global Marketing Solutions Group LLC
+</h3>
                                         </Link>
                                     </div>
                                 </div>

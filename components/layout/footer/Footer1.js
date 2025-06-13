@@ -16,15 +16,18 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <h2 className="text-white">Global Marketing Solutions</h2>
+                                            <h2 className="text-white">Global Marketing Solutions Group LLC
+</h2>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At Global Marketing Solutions, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At Global Marketing Solutions Group LLC
+, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         Global Marketing Solutions
+                                         Global Marketing Solutions Group LLC
+
                                         </p>
                                      
                                     </div>
@@ -39,11 +42,11 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                25320 Whippoorwill Ter, Chantilly, VA 20152-6685
+                                                585 Grove St Ste 100, Herndon, VA 20170-4791
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+1 (703) 656-1700">+1 (703) 656-1700</Link>
+                                                <Link href="/tel:+1 (888) 528-7172">+1 (888) 528-7172</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />

@@ -15,7 +15,8 @@ export default function Offcanvas({
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
                                     <Link href="/">
-                                        <h3>Global Marketing Solutions</h3>
+                                        <h3>Global Marketing Solutions Group LLC
+</h3>
                                     </Link>
                                 </div>
                                 <div className="offcanvas__close" onClick={handleOffCanvas}>
@@ -37,7 +38,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">25320 Whippoorwill Ter, Chantilly, VA 20152-6685</Link>
+                                            <Link target="_blank" href="#">585 Grove St Ste 100, Herndon, VA 20170-4791</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -61,7 +62,7 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+11002345909">+1 (703) 656-1700</Link>
+                                            <Link href="/tel:+11002345909">+1 (888) 528-7172</Link>
                                         </div>
                                     </li>
                                 </ul>

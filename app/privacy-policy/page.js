@@ -17,7 +17,8 @@ export default function PrivacyPolicy() {
                                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                 Your Privacy Matters to Us
                                 </h2>
-                                <p className="fw-semibold pt-5">At Global Marketing Solutions, we take your privacy seriously. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website or use our Internet, cable, and phone services. By accessing or using our services, you consent to the practices described in this policy.</p>
+                                <p className="fw-semibold pt-5">At Global Marketing Solutions Group LLC
+, we take your privacy seriously. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website or use our Internet, cable, and phone services. By accessing or using our services, you consent to the practices described in this policy.</p>
                                 </div>
 
                                   <div className="d-flex align-items-center gap-3 mt-4">

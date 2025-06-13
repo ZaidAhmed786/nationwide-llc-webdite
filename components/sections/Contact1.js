@@ -22,7 +22,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Tell Us How Can We Help</p>
                                                         <h3>
-                                                            <Link href="/tel:+2085550112">+1 (703) 656-1700</Link>
+                                                            <Link href="/tel:+2085550112">+1 (888) 528-7172</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -51,7 +51,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                        25320 Whippoorwill Ter, Chantilly, VA 20152-6685
+                                                        585 Grove St Ste 100, Herndon, VA 20170-4791
                                                         </h3>
                                                     </div>
                                                 </div>

@@ -20,11 +20,11 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="/mailto:sales@gmsgconsulting.com" className="link">contact@zolaraconsulting.com </Link>
+                                    <Link href="/mailto:sales@gmsgconsulting.com" className="link">contact@gmsgconsulting.com </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="/tel:+1 (703) 656-1700">+1 (703) 656-1700</Link>
+                                    <Link href="/tel:+1 (888) 528-7172">+1 (888) 528-7172</Link>
                                 </li>
                             </ul>
                            
@@ -38,7 +38,8 @@ export default function Header1({
                                 <div className="header-left">
                                     <div className="logo">
                                         <Link href="/" className="header-logo">
-                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Global Marketing Solutions</h3>
+                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Global Marketing Solutions Group LLC
+</h3>
                                         </Link>
                                     </div>
                                 </div>
