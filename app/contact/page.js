@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link href="/tel:+1 (888) 528-7172" className="text-white fs-6 fw-bold">+1 (888) 528-7172</Link>
+                                                            <Link href="tel:+1888359206" className="text-white fs-6 fw-bold">+1 (888) 352-9206</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link href="/mailto:sales@gmsgconsulting.com " className="text-white fs-6 fw-bold">sales@gmsgconsulting.com </Link>
+                                                            <Link href="mailto:sales@gmsgconsulting.com " className="text-white fs-6 fw-bold">sales@gmsgconsulting.com </Link>
                                                         </div>
                                                     </div>
                                                 </div>

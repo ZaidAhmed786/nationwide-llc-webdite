@@ -46,11 +46,11 @@ export default function Footer1() {
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+1 (888) 528-7172">+1 (888) 528-7172</Link>
+                                                <Link href="tel:+1888359206">+1 (888) 352-9206</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="/mailto:sales@gmsgconsulting.com ">sales@gmsgconsulting.com </Link>
+                                                <Link href="mailto:sales@gmsgconsulting.com ">sales@gmsgconsulting.com </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>

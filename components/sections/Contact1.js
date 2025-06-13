@@ -22,7 +22,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Tell Us How Can We Help</p>
                                                         <h3>
-                                                            <Link href="/tel:+2085550112">+1 (888) 528-7172</Link>
+                                                            <Link href="/tel:+2085550112">+1 (888) 352-9206</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
