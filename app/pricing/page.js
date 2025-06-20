@@ -25,7 +25,7 @@ export default function Pricing() {
                                                     <h6>Basic Plan</h6>
                                                 </div>
                                                 <div className="pricing-header">
-                                                    <h2>$149</h2>
+                                                    <h2>$59.99</h2>
                                                     <span>Par month</span>
                                                     <p>
                                                         Lnteger sapien nec sapien sollicitudin ultrices Cras tempor id lorem et
@@ -68,7 +68,7 @@ export default function Pricing() {
                                                     <h6>Most Popular</h6>
                                                 </div>
                                                 <div className="pricing-header">
-                                                    <h2>$179</h2>
+                                                    <h2>$124.99</h2>
                                                     <span>Par month</span>
                                                     <p>
                                                         Lnteger sapien nec sapien sollicitudin ultrices Cras tempor id lorem et
@@ -111,7 +111,7 @@ export default function Pricing() {
                                                     <h6>Premium</h6>
                                                 </div>
                                                 <div className="pricing-header">
-                                                    <h2>$199</h2>
+                                                    <h2>$249.99</h2>
                                                     <span>Par month</span>
                                                     <p>
                                                         Lnteger sapien nec sapien sollicitudin ultrices Cras tempor id lorem et
