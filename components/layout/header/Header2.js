@@ -20,12 +20,12 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="/mailto:sales@gmsgconsulting.com" className="link">refunds@gmsgconsulting.com
-                                    </Link>
+                                    <a href="mailto:sales@gmsgconsulting.com" className="link">refunds@gmsgconsulting.com
+                                    </a>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="tel:+1888359206">+1 (888) 352-9206</Link>
+                                    <a href="tel:+1888359206">+1 (888) 352-9206</a>
                                 </li>
                             </ul>
                            
@@ -38,10 +38,10 @@ export default function Header1({
                             <div className="header-main style-2">
                                 <div className="header-left">
                                     <div className="logo">
-                                        <Link href="/" className="header-logo">
+                                        <a href="/" className="header-logo">
                                             <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Global Marketing Solutions Group LLC
 </h3>
-                                        </Link>
+                                        </a>
                                     </div>
                                 </div>
                                 <div className="header-right d-flex justify-content-end align-items-center">

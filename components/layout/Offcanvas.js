@@ -14,10 +14,10 @@ export default function Offcanvas({
                         <div className="offcanvas__content">
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
-                                    <Link href="/">
+                                    <a href="/">
                                         <h3>Global Marketing Solutions Group LLC
 </h3>
-                                    </Link>
+                                    </a>
                                 </div>
                                 <div className="offcanvas__close" onClick={handleOffCanvas}>
                                     <button>
@@ -38,7 +38,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">585 Grove St Ste 100, Herndon, VA 20170-4791</Link>
+                                            <a target="_blank" href="#">585 Grove St Ste 100, Herndon, VA 20170-4791</a>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -46,7 +46,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@azent.com"><span className="mailto:sales@gmsgconsulting.com">sales@gmsgconsulting.com </span></Link>
+                                            <a href="/mailto:info@azent.com"><span className="mailto:sales@gmsgconsulting.com">sales@gmsgconsulting.com </span></a>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -54,7 +54,7 @@ export default function Offcanvas({
                                             <i className="fal fa-clock" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">Mon-Sat, 9am-7pm (EST)</Link>
+                                            <a target="_blank" href="#">Mon-Sat, 9am-7pm (EST)</a>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -62,20 +62,20 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+11002345909">+1 (888) 352-9206</Link>
+                                            <a href="/tel:+11002345909">+1 (888) 352-9206</a>
                                         </div>
                                     </li>
                                 </ul>
                                 <div className="header-button mt-4">
-                                    <Link href="/contact" className="theme-btn text-center">
+                                    <a href="/contact" className="theme-btn text-center">
                                         <span>get A Quote<i className="fa-solid fa-arrow-right-long" /></span>
-                                    </Link>
+                                    </a>
                                 </div>
                                 <div className="social-icon d-flex align-items-center">
-                                    <Link href="#"><i className="fab fa-facebook-f" /></Link>
-                                    <Link href="#"><i className="fab fa-twitter" /></Link>
-                                    <Link href="#"><i className="fab fa-youtube" /></Link>
-                                    <Link href="#"><i className="fab fa-linkedin-in" /></Link>
+                                    <a href="#"><i className="fab fa-facebook-f" /></a>
+                                    <a href="#"><i className="fab fa-twitter" /></a>
+                                    <a href="#"><i className="fab fa-youtube" /></a>
+                                    <a href="#"><i className="fab fa-linkedin-in" /></a>
                                 </div>
                             </div>
                         </div>

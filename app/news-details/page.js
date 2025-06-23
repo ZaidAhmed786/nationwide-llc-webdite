@@ -74,17 +74,17 @@ export default function PrivacyPolicy() {
                                         <div className="row tag-share-wrap mt-4 mb-5">
                                             <div className="col-lg-8 col-12">
                                                 <div className="tagcloud">
-                                                    <Link href="/news-details">News</Link>
-                                                    <Link href="/news-details">business</Link>
-                                                    <Link href="/news-details">marketing</Link>
+                                                    <a href="/news-details">News</a>
+                                                    <a href="/news-details">business</a>
+                                                    <a href="/news-details">marketing</a>
                                                 </div>
                                             </div>
                                             <div className="col-lg-4 col-12 mt-3 mt-lg-0 text-lg-end">
                                                 <div className="social-share">
                                                     <span className="me-3">Share:</span>
-                                                    <Link href="#"><i className="fab fa-facebook-f" /></Link>
-                                                    <Link href="#"><i className="fab fa-twitter" /></Link>
-                                                    <Link href="#"><i className="fab fa-linkedin-in" /></Link>
+                                                    <a href="#"><i className="fab fa-facebook-f" /></a>
+                                                    <a href="#"><i className="fab fa-twitter" /></a>
+                                                    <a href="#"><i className="fab fa-linkedin-in" /></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -99,7 +99,7 @@ export default function PrivacyPolicy() {
                                                 <div className="content">
                                                     <div className="head d-flex flex-wrap gap-2 align-items-center justify-content-between">
                                                         <div className="con">
-                                                            <h5><Link href="/news-details">Albert Flores</Link></h5>
+                                                            <h5><a href="/news-details">Albert Flores</a></h5>
                                                             <span>March 20, 2024 at 2:37 pm</span>
                                                         </div>
                                                         <div className="star">
@@ -114,7 +114,7 @@ export default function PrivacyPolicy() {
                                                         veritatis et quasi
                                                         architecto var sed efficitur turpis gilla sed
                                                         sit amet finibus eros. Lorem Ipsum is simply dummy</p>
-                                                    <Link href="/news-details" className="reply">Reply</Link>
+                                                    <a href="/news-details" className="reply">Reply</a>
                                                 </div>
                                             </div>
                                             <div className="blog-single-comment d-flex gap-4 pt-5 pb-5">
@@ -124,7 +124,7 @@ export default function PrivacyPolicy() {
                                                 <div className="content">
                                                     <div className="head d-flex flex-wrap gap-2 align-items-center justify-content-between">
                                                         <div className="con">
-                                                            <h5><Link href="/news-details">Alex Flores</Link></h5>
+                                                            <h5><a href="/news-details">Alex Flores</a></h5>
                                                             <span>March 20, 2024 at 2:37 pm</span>
                                                         </div>
                                                         <div className="star">
@@ -139,7 +139,7 @@ export default function PrivacyPolicy() {
                                                         veritatis et quasi
                                                         architecto var sed efficitur turpis gilla sed
                                                         sit amet finibus eros. Lorem Ipsum is simply dummy</p>
-                                                    <Link href="/news-details" className="reply">Reply</Link>
+                                                    <a href="/news-details" className="reply">Reply</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -191,11 +191,11 @@ export default function PrivacyPolicy() {
                                             </div>
                                             <div className="news-widget-categories">
                                                 <ul>
-                                                    <li><Link href="/news-details">Database Security</Link> <span>(08)</span></li>
-                                                    <li><Link href="/news-details">IT Consultancy</Link> <span>(11)</span></li>
-                                                    <li className="active"><Link href="/news-details">App Development</Link><span>(12)</span></li>
-                                                    <li><Link href="/news-details">UI/UX Design</Link> <span>(18)</span></li>
-                                                    <li><Link href="/news-details">Cyber Security</Link> <span>(07)</span></li>
+                                                    <li><a href="/news-details">Database Security</a> <span>(08)</span></li>
+                                                    <li><a href="/news-details">IT Consultancy</a> <span>(11)</span></li>
+                                                    <li className="active"><a href="/news-details">App Development</a><span>(12)</span></li>
+                                                    <li><a href="/news-details">UI/UX Design</a> <span>(18)</span></li>
+                                                    <li><a href="/news-details">Cyber Security</a> <span>(07)</span></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -216,10 +216,10 @@ export default function PrivacyPolicy() {
                                                             </li>
                                                         </ul>
                                                         <h6>
-                                                            <Link href="/news-details">
+                                                            <a href="/news-details">
                                                                 Keep Your Business Safe &amp; <br />
                                                                 Endure High Availability
-                                                            </Link>
+                                                            </a>
                                                         </h6>
                                                     </div>
                                                 </div>
@@ -235,10 +235,10 @@ export default function PrivacyPolicy() {
                                                             </li>
                                                         </ul>
                                                         <h6>
-                                                            <Link href="/news-details">
+                                                            <a href="/news-details">
                                                                 Tacking the Changes of <br />
                                                                 Retail Industry
-                                                            </Link>
+                                                            </a>
                                                         </h6>
                                                     </div>
                                                 </div>
@@ -254,10 +254,10 @@ export default function PrivacyPolicy() {
                                                             </li>
                                                         </ul>
                                                         <h6>
-                                                            <Link href="/news-details">
+                                                            <a href="/news-details">
                                                                 What’s the Holding Back <br />
                                                                 the It Solution
-                                                            </Link>
+                                                            </a>
                                                         </h6>
                                                     </div>
                                                 </div>
@@ -269,13 +269,13 @@ export default function PrivacyPolicy() {
                                             </div>
                                             <div className="news-widget-categories">
                                                 <div className="tagcloud">
-                                                    <Link href="/news-standard">News</Link>
-                                                    <Link href="/news-details">business</Link>
-                                                    <Link href="/news-details">marketing</Link>
-                                                    <Link href="/news-details">solution</Link>
-                                                    <Link href="/news-details">SMM</Link>
-                                                    <Link href="/news-details">strategy</Link>
-                                                    <Link href="/news-details">SEO</Link>
+                                                    <a href="/news-standard">News</a>
+                                                    <a href="/news-details">business</a>
+                                                    <a href="/news-details">marketing</a>
+                                                    <a href="/news-details">solution</a>
+                                                    <a href="/news-details">SMM</a>
+                                                    <a href="/news-details">strategy</a>
+                                                    <a href="/news-details">SEO</a>
                                                 </div>
                                             </div>
                                         </div>

@@ -1277,6 +1277,7 @@ span {
 }
 .contact-wrapper-2 .contact-left-items .contact-info-area-2 .contact-info-items .content h3 a {
   color: var(--white);
+  text-transform: lowercase;
 }
 .contact-wrapper-2 .contact-left-items .contact-info-area-2 .contact-info-items.border-none {
   border: none !important;

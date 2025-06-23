@@ -17,10 +17,10 @@
 //                             <img src="/assets/img/client.png" alt="img" />
 //                             <h6><span>15k+</span>Active Customer</h6>
 //                         </div>
-//                         <Link href="/contact" className="theme-btn hover-white wow fadeInUp" data-wow-delay=".5s">
+//                         <a href="/contact" className="theme-btn hover-white wow fadeInUp" data-wow-delay=".5s">
 //                             Get A Quote
 //                             <i className="fa-solid fa-arrow-right-long" />
-//                         </Link>
+//                         </a>
 //                     </div>
 //                     <div className="footer-widgets-wrapper pb-0 pt-0">
 //                         <div className="footer-style-2">
@@ -28,9 +28,9 @@
 //                                 <div className="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
 //                                     <div className="single-footer-widget">
 //                                         <div className="widget-head">
-//                                             <Link href="/">
+//                                             <a href="/">
 //                                                 <img src="/assets/img/logo/white-logo.svg" alt="logo-img" />
-//                                             </Link>
+//                                             </a>
 //                                         </div>
 //                                         <div className="footer-content">
 //                                             <p>
@@ -39,10 +39,10 @@
 //                                                 curabitur lacinia mollis
 //                                             </p>
 //                                             <div className="social-icon d-flex align-items-center">
-//                                                 <Link href="#"><i className="fab fa-facebook-f" /></Link>
-//                                                 <Link href="#"><i className="fab fa-twitter" /></Link>
-//                                                 <Link href="#"><i className="fa-brands fa-linkedin-in" /></Link>
-//                                                 <Link href="#"><i className="fa-brands fa-youtube" /></Link>
+//                                                 <a href="#"><i className="fab fa-facebook-f" /></a>
+//                                                 <a href="#"><i className="fab fa-twitter" /></a>
+//                                                 <a href="#"><i className="fa-brands fa-linkedin-in" /></a>
+//                                                 <a href="#"><i className="fa-brands fa-youtube" /></a>
 //                                             </div>
 //                                         </div>
 //                                     </div>
@@ -54,34 +54,34 @@
 //                                         </div>
 //                                         <ul className="list-area">
 //                                             <li>
-//                                                 <Link href="/about">
+//                                                 <a href="/about">
 //                                                     <i className="fa-solid fa-chevron-right" />
 //                                                     Infotech About
-//                                                 </Link>
+//                                                 </a>
 //                                             </li>
 //                                             <li>
-//                                                 <Link href="/service">
+//                                                 <a href="/service">
 //                                                     <i className="fa-solid fa-chevron-right" />
 //                                                     Our Services
-//                                                 </Link>
+//                                                 </a>
 //                                             </li>
 //                                             <li>
-//                                                 <Link href="/news">
+//                                                 <a href="/news">
 //                                                     <i className="fa-solid fa-chevron-right" />
 //                                                     Our Blogs
-//                                                 </Link>
+//                                                 </a>
 //                                             </li>
 //                                             <li>
-//                                                 <Link href="/faq">
+//                                                 <a href="/faq">
 //                                                     <i className="fa-solid fa-chevron-right" />
 //                                                     FAQ’S
-//                                                 </Link>
+//                                                 </a>
 //                                             </li>
 //                                             <li>
-//                                                 <Link href="/contact">
+//                                                 <a href="/contact">
 //                                                     <i className="fa-solid fa-chevron-right" />
 //                                                     Contact Us
-//                                                 </Link>
+//                                                 </a>
 //                                             </li>
 //                                         </ul>
 //                                     </div>
@@ -111,7 +111,7 @@
 //                                                     </div>
 //                                                     <div className="content">
 //                                                         <h6>Phone Call: </h6>
-//                                                         <Link href="#">208-6666-0112, 308-5555-0113</Link>
+//                                                         <a href="#">208-6666-0112, 308-5555-0113</a>
 //                                                     </div>
 //                                                 </div>
 //                                             </div>
@@ -128,8 +128,8 @@
 //                                                 Suscipit ipsum id justo malesuada fermentum. Donec ut sem varius, congue ligula vel
 //                                             </p>
 //                                             <div className="apps-image d-flex align-items-center">
-//                                                 <Link href="#"><img src="/assets/img/play-store.png" alt="store-img" /></Link>
-//                                                 <Link href="#"><img src="/assets/img/app-store.png" alt="store-img" /></Link>
+//                                                 <a href="#"><img src="/assets/img/play-store.png" alt="store-img" /></a>
+//                                                 <a href="#"><img src="/assets/img/app-store.png" alt="store-img" /></a>
 //                                             </div>
 //                                         </div>
 //                                     </div>
@@ -142,25 +142,25 @@
 //                     <div className="container">
 //                         <div className="footer-wrapper d-flex align-items-center justify-content-between">
 //                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-//                                 © All Copyright {new Date().getFullYear()} by <Link href="/">Infotech</Link>
+//                                 © All Copyright {new Date().getFullYear()} by <a href="/">Infotech</a>
 //                             </p>
 //                             <ul className="footer-menu wow fadeInRight" data-wow-delay=".5s">
 //                                 <li>
-//                                     <Link href="/contact">
+//                                     <a href="/contact">
 //                                         Terms &amp; Condition
-//                                     </Link>
+//                                     </a>
 //                                 </li>
 //                                 <li>
-//                                     <Link href="/contact">
+//                                     <a href="/contact">
 //                                         Privacy Policy
-//                                     </Link>
+//                                     </a>
 //                                 </li>
 //                             </ul>
 //                         </div>
 //                     </div>
-//                     <Link href="#" id="scrollUp" className="scroll-icon">
+//                     <a href="#" id="scrollUp" className="scroll-icon">
 //                         <i className="far fa-arrow-up" />
-//                     </Link>
+//                     </a>
 //                 </div>
 //             </footer>
 

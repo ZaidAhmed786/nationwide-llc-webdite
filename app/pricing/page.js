@@ -55,10 +55,10 @@ export default function Pricing() {
                                                 </ul>
                                                 <div className="pricing-button">
                                                     <p>Up to 10 users + 1.99 per user</p>
-                                                    <Link href="/contact" className="pricing-btn mt-4">
+                                                    <a href="/contact" className="pricing-btn mt-4">
                                                         choose Plan
                                                         <i className="fa-solid fa-arrow-right-long" />
-                                                    </Link>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -98,10 +98,10 @@ export default function Pricing() {
                                                 </ul>
                                                 <div className="pricing-button">
                                                     <p>Up to 10 users + 1.99 per user</p>
-                                                    <Link href="/contact" className="pricing-btn mt-4">
+                                                    <a href="/contact" className="pricing-btn mt-4">
                                                         choose Plan
                                                         <i className="fa-solid fa-arrow-right-long" />
-                                                    </Link>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -141,10 +141,10 @@ export default function Pricing() {
                                                 </ul>
                                                 <div className="pricing-button">
                                                     <p>Up to 10 users + 1.99 per user</p>
-                                                    <Link href="/contact" className="pricing-btn mt-4">
+                                                    <a href="/contact" className="pricing-btn mt-4">
                                                         choose Plan
                                                         <i className="fa-solid fa-arrow-right-long" />
-                                                    </Link>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -188,10 +188,10 @@ export default function Pricing() {
                                                 </ul>
                                                 <div className="pricing-button">
                                                     <p>Up to 10 users + 1.99 per user</p>
-                                                    <Link href="/contact" className="pricing-btn mt-4">
+                                                    <a href="/contact" className="pricing-btn mt-4">
                                                         choose Plan
                                                         <i className="fa-solid fa-arrow-right-long" />
-                                                    </Link>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -231,10 +231,10 @@ export default function Pricing() {
                                                 </ul>
                                                 <div className="pricing-button">
                                                     <p>Up to 10 users + 1.99 per user</p>
-                                                    <Link href="/contact" className="pricing-btn mt-4">
+                                                    <a href="/contact" className="pricing-btn mt-4">
                                                         choose Plan
                                                         <i className="fa-solid fa-arrow-right-long" />
-                                                    </Link>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -274,10 +274,10 @@ export default function Pricing() {
                                                 </ul>
                                                 <div className="pricing-button">
                                                     <p>Up to 10 users + 1.99 per user</p>
-                                                    <Link href="/contact" className="pricing-btn mt-4">
+                                                    <a href="/contact" className="pricing-btn mt-4">
                                                         choose Plan
                                                         <i className="fa-solid fa-arrow-right-long" />
-                                                    </Link>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>

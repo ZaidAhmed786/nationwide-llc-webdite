@@ -6,19 +6,19 @@ export default function Footer1() {
 
             <footer className="footer-section">
                 <div className="footer-widgets-wrapper footer-bg">
-                    <div className="shape-1">
+                    {/* <div className="shape-1">
                         <img src="/assets/img/footer-shape-1.png" alt="shape-img" />
-                    </div>
+                    </div> */}
                    
                     <div className="container">
                         <div className="row">
                             <div className="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
-                                        <Link href="/">
+                                        <a href="/">
                                             <h2 className="text-white">Global Marketing Solutions Group LLC
 </h2>
-                                        </Link>
+                                        </a>
                                     </div>
                                     <div className="footer-content">
                                         <p>
@@ -46,14 +46,20 @@ export default function Footer1() {
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="tel:+1888359206">+1 (888) 352-9206</Link>
+                                                <a href="tel:+1888359206">+1 (888) 352-9206</a>
+                                            </li>
+                                          <li className="d-flex">
+                                            <i className="fa-regular fa-envelope mt-1" />
+                                            <a
+                                                href="mailto:sales@gmsgconsulting.com"
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                            >
+                                                sales@gmsgconsulting.com
+                                            </a>
                                             </li>
                                             <li className="d-flex ">
-                                                <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="mailto:sales@gmsgconsulting.com ">sales@gmsgconsulting.com </Link>
-                                            </li>
-                                            <li className="d-flex ">
-                                                <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
+                                                <a href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </a>
                                             </li>
                                         </ul>
                                       
@@ -68,34 +74,34 @@ export default function Footer1() {
                                     </div>
                                     <ul className="list-area">
                                         <li>
-                                            <Link href="/">
+                                            <a href="/">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Home
-                                            </Link>
+                                            </a>
                                         </li>
                                         <li>
-                                            <Link href="/about">
+                                            <a href="/about">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 About Us
-                                            </Link>
+                                            </a>
                                         </li>
                                         <li>
-                                            <Link href="/service-carousel">
+                                            <a href="/service-carousel">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Internet Services
-                                            </Link>
+                                            </a>
                                         </li>
                                         <li>
-                                            <Link href="/service">
+                                            <a href="/service">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Cable Deals
-                                            </Link>
+                                            </a>
                                         </li>
                                         <li>
-                                            <Link href="/contact">
+                                            <a href="/contact">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Contact Us
-                                            </Link>
+                                            </a>
                                         </li>
                                     </ul>
                                 </div>
@@ -107,22 +113,22 @@ export default function Footer1() {
                                     </div>
                                     <ul className="list-area">
                                         <li>
-                                            <Link href="/privacy-policy">
+                                            <a href="/privacy-policy">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Privacy Policy
-                                            </Link>
+                                            </a>
                                         </li>
                                         <li>
-                                            <Link href="/refund">
+                                            <a href="/refund">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Refund Policy
-                                            </Link>
+                                            </a>
                                         </li>
                                         <li>
-                                            <Link href="/terms">
+                                            <a href="/terms">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Terms and conditions
-                                            </Link>
+                                            </a>
                                         </li>
                                       
                                     </ul>
@@ -136,14 +142,14 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Global   <Link href="/">Marketing Solutions LLC</Link>
+                                © All Copyright {new Date().getFullYear()}  |   Global   <a href="/">Marketing Solutions LLC</a>
                             </p>
                            
                         </div>
                     </div>
-                    <Link href="#" id="scrollUp" className="scroll-icon">
+                    <a href="#" id="scrollUp" className="scroll-icon">
                         <i className="far fa-arrow-up" />
-                    </Link>
+                    </a>
                 </div>
             </footer>
 

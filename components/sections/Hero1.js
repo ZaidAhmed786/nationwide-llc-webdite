@@ -32,14 +32,14 @@ export default function Hero1() {
                                 <p className="wow fadeInUp" data-wow-delay=".6s">
                                 Providing top-quality internet service with reliable speeds, exceptional customer support, and affordable plans, ensuring seamless connectivity for all users.</p>
                                 <div className="hero-button">
-                                    <Link href="/about" className="theme-btn wow fadeInUp" data-wow-delay=".8s">
+                                    <a href="/about" className="theme-btn wow fadeInUp" data-wow-delay=".8s">
                                         Learn More
                                         
-                                    </Link>
-                                    <Link href="/contact" className="btn border-2 border-black py-3 px-4" data-wow-delay=".8s">
+                                    </a>
+                                    <a href="/contact" className="btn border-2 border-black py-3 px-4" data-wow-delay=".8s">
                                         Contact Us
                                         
-                                    </Link>
+                                    </a>
                                     
                                 </div>
                             </div>

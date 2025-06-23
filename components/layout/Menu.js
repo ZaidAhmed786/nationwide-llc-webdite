@@ -7,29 +7,29 @@ export default function Menu() {
 
             <ul>
                 <li className="has-dropdown active menu-thumb">
-                    <Link href="/">
+                    <a href="/">
                         Home
                         
-                    </Link>
+                    </a>
                    
                 </li>
                 <li>
-                    <Link href="/">
+                    <a href="/">
                        Our Services
                         <i className="fas fa-angle-down ps-1" />
-                    </Link>
+                    </a>
                     <ul className="submenu">
-                        <li><Link href="/service">Cable TV</Link></li>
-                        <li><Link href="/service-carousel">Internet</Link></li>
+                        <li><a href="/service">Cable TV</a></li>
+                        <li><a href="/service-carousel">Internet</a></li>
                     </ul>
                 </li>
                 <li>
-                    <Link href="/about">About Us</Link>
+                    <a href="/about">About Us</a>
                 </li>
                
                
                 <li>
-                    <Link href="/contact">Contact Us</Link>
+                    <a href="/contact">Contact Us</a>
                 </li>
             </ul>
         </>

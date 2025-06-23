@@ -40,17 +40,17 @@ export default function Team1() {
                             <span className="text-white wow fadeInUp">EXPERT PEOPLE</span>
                             <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">Dedicated Team Members</h2>
                         </div>
-                        <Link href="/team" className="theme-btn hover-white wow fadeInUp" data-wow-delay=".5s">
+                        <a href="/team" className="theme-btn hover-white wow fadeInUp" data-wow-delay=".5s">
                             All Member
                             <i className="fa-solid fa-arrow-right-long" />
-                        </Link>
+                        </a>
                     </div>
                     <div className="team-wrapper">
                         <div className="team-items bor-top bor-bottom wow fadeInUp" data-wow-delay=".3s">
                             <div className="team-title">
                                 <span>Scrum Master</span>
                                 <h4>
-                                    <Link href="/team-details">Cameron Williamson</Link>
+                                    <a href="/team-details">Cameron Williamson</a>
                                 </h4>
                             </div>
                             <p>
@@ -60,9 +60,9 @@ export default function Team1() {
                             <div className="team-hover d-none d-md-block bg-cover" style={{ backgroundImage: 'url("assets/img/team/hover-1.png")' }} />
                             <div className="social-profile">
                                 <ul>
-                                    <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                    <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                    <li><a href="#"><i className="fab fa-instagram" /></a></li>
+                                    <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                 </ul>
                                 <span className="plus-btn"><i className="fa-solid fa-plus" /></span>
                             </div>
@@ -71,7 +71,7 @@ export default function Team1() {
                             <div className="team-title">
                                 <span>Engineering</span>
                                 <h4>
-                                    <Link href="/team-details">Leslie Alexander</Link>
+                                    <a href="/team-details">Leslie Alexander</a>
                                 </h4>
                             </div>
                             <p>
@@ -81,9 +81,9 @@ export default function Team1() {
                             <div className="team-hover d-none d-md-block bg-cover" style={{ backgroundImage: 'url("assets/img/team/hover-1.png")' }} />
                             <div className="social-profile">
                                 <ul>
-                                    <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                    <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                    <li><a href="#"><i className="fab fa-instagram" /></a></li>
+                                    <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                 </ul>
                                 <span className="plus-btn"><i className="fa-solid fa-plus" /></span>
                             </div>
@@ -92,7 +92,7 @@ export default function Team1() {
                             <div className="team-title">
                                 <span>UI/UX Designer</span>
                                 <h4>
-                                    <Link href="/team-details">Ronald Richards</Link>
+                                    <a href="/team-details">Ronald Richards</a>
                                 </h4>
                             </div>
                             <p>
@@ -102,9 +102,9 @@ export default function Team1() {
                             <div className="team-hover d-none d-md-block bg-cover" style={{ backgroundImage: 'url("assets/img/team/hover-1.png")' }} />
                             <div className="social-profile">
                                 <ul>
-                                    <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                    <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                    <li><a href="#"><i className="fab fa-instagram" /></a></li>
+                                    <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                 </ul>
                                 <span className="plus-btn"><i className="fa-solid fa-plus" /></span>
                             </div>
@@ -113,7 +113,7 @@ export default function Team1() {
                             <div className="team-title">
                                 <span>Web Designer</span>
                                 <h4>
-                                    <Link href="/team-details">Darrell Steward</Link>
+                                    <a href="/team-details">Darrell Steward</a>
                                 </h4>
                             </div>
                             <p>
@@ -123,9 +123,9 @@ export default function Team1() {
                             <div className="team-hover d-none d-md-block bg-cover" style={{ backgroundImage: 'url("assets/img/team/hover-1.png")' }} />
                             <div className="social-profile">
                                 <ul>
-                                    <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                    <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                    <li><a href="#"><i className="fab fa-instagram" /></a></li>
+                                    <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                 </ul>
                                 <span className="plus-btn"><i className="fa-solid fa-plus" /></span>
                             </div>

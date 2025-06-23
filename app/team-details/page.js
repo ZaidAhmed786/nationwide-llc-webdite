@@ -57,10 +57,10 @@ export default function TeamDetails() {
                                         </div>
                                         <div className="social-icon">
                                             <span>Social Media:</span>
-                                            <Link href="#"><i className="fa-brands fa-facebook-f" /></Link>
-                                            <Link href="#" className="active"><i className="fa-brands fa-twitter" /></Link>
-                                            <Link href="#"><i className="fa-brands fa-linkedin-in" /></Link>
-                                            <Link href="#"><i className="fa-brands fa-youtube" /></Link>
+                                            <a href="#"><i className="fa-brands fa-facebook-f" /></a>
+                                            <a href="#" className="active"><i className="fa-brands fa-twitter" /></a>
+                                            <a href="#"><i className="fa-brands fa-linkedin-in" /></a>
+                                            <a href="#"><i className="fa-brands fa-youtube" /></a>
                                         </div>
                                     </div>
                                 </div>
