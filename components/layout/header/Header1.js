@@ -20,13 +20,13 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <a    href="mailto:sales@gmsgconsulting.com"
+                                    <a    href="mailto:admin@gmsgconsulting.com"
                                                 target="_blank"
-                                                rel="noopener noreferrer" className="link">sales@gmsgconsulting.com </a>
+                                                rel="noopener noreferrer" className="link">admin@gmsgconsulting.com </a>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <a href="tel:+1888359206">+1 (888) 352-9205</a>
+                                    <a href="tel:+1888359206">+1 (929) 780-0340</a>
                                 </li>
                             </ul>
                             <div className=" "><h5 className=" text-white px-3 py-2">Mon-Sat, 9am-7pm (EST)</h5></div>

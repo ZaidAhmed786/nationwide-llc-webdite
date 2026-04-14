@@ -32,7 +32,7 @@
 //                             <div className="content">
 //                                 <p>Make a Quote</p>
 //                                 <h3>
-//                                     <a href="mailto:sales@gmsgconsulting.com ">Infotech@gmail.com</a>
+//                                     <a href="mailto:admin@gmsgconsulting.com ">Infotech@gmail.com</a>
 //                                 </h3>
 //                             </div>
 //                         </div>

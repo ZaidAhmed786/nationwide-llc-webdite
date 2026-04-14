@@ -46,16 +46,16 @@ export default function Footer1() {
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <a href="tel:+1888359206">+1 (888) 352-9205</a>
+                                                <a href="tel:+1888359206">+1 (929) 780-0340</a>
                                             </li>
                                           <li className="d-flex">
                                             <i className="fa-regular fa-envelope mt-1" />
                                             <a
-                                                href="mailto:sales@gmsgconsulting.com"
+                                                href="mailto:admin@gmsgconsulting.com"
                                                 target="_blank"
                                                 rel="noopener noreferrer"
                                             >
-                                                sales@gmsgconsulting.com
+                                                admin@gmsgconsulting.com
                                             </a>
                                             </li>
                                             <li className="d-flex ">

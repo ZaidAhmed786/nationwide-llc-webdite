@@ -20,11 +20,11 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <a href="mailto:sales@gmsgconsulting.com" className="link">support@gmsgconsulting.com </a>
+                                    <a href="mailto:admin@gmsgconsulting.com" className="link">support@gmsgconsulting.com </a>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <a href="tel:+1888359206">+1 (888) 352-9205</a>
+                                    <a href="tel:+1888359206">+1 (929) 780-0340</a>
                                 </li>
                             </ul>
                            
